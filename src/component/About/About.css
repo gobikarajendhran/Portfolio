@@ -1,0 +1,35 @@
+.topic{
+    padding: 50px;
+    
+    
+}
+
+
+#h2{
+    color: black;
+
+    
+}
+#img{
+    width: 246px;
+    height:auto;
+    float: left;
+    border-radius: 30px;
+    margin-right: 20px;
+    
+   
+    
+    
+
+}
+
+.about1,
+.about2,
+.about3,
+.about4{
+      
+      padding: 20px;
+      border-radius: 10px;
+      background-color:rgb(237, 239, 239) ;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}

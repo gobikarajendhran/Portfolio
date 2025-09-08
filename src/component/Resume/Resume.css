@@ -1,0 +1,75 @@
+body{
+    color: black;
+    font-family: "poppins",sans-serif;
+}
+
+
+#text1{
+    font-size: xx-large;
+    font-weight: bolder;
+
+}
+.menu{
+    display: flex;
+   justify-content: center;
+  gap: 40px;
+}
+.clgname{
+     font-style: italic;
+     font-size:larger;
+    
+}
+.clgdetails{
+    display: flex;
+    justify-content: space-between;
+    font-family: "poppins";
+    font-weight:200 ;
+}
+
+.hsc {
+    font-style: italic;
+    font-size: larger;
+}
+
+.shldetails {
+    display: flex;
+    justify-content: space-between;
+    font-family: "poppins";
+    font-weight: 200;
+}
+.sslc {
+    font-style: italic;
+    font-size: larger;
+    
+}
+
+.shldetails1 {
+    display: flex;
+    justify-content: space-between;
+    font-family: "poppins";
+    font-weight: 200;
+}
+.maincontent p{
+     font-family: "poppins";
+     font-size: larger;
+    font-style: italic;
+}
+.flex{
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+    
+}
+.flex p{
+    padding: 10px;
+    font-style: italic;
+    font-family: "poppins";
+    font-size: larger;
+}
+
+#footerpara{
+    font-size: larger;
+    font-family: "poppins";
+    font-style: italic;
+    padding-left: 100px;
+}

@@ -1,0 +1,34 @@
+.background {
+    background-color: rgb(237, 239, 239);
+    padding: 50px;
+     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+
+#para {
+
+    font-weight: bolder;
+    font-family: 'Arial Narrow Bold';
+    font-size:x-large;
+}
+#image{
+    width: 250px;
+    height:350px ;
+    float: right;
+    border-radius: 20px;
+}
+
+.buttoncontainer{
+    display: flex;
+    gap: 20px;
+
+}
+.buttoncontainer button{
+    border: none;
+        outline: none;
+        padding: "30px";
+        background-color: rgb(208, 146, 146);
+}
+.buttoncontainer button:active{
+transform: scale(0.99);
+}

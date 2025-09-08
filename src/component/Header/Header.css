@@ -1,0 +1,30 @@
+body{
+    padding-top: 60px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+     background-color: white;
+    color:black;
+    padding: 10px;
+    align-items: center;
+   position: fixed;
+  top: 0;
+   width: 100%;
+    
+   
+    
+
+}
+
+.menu ul,
+li {
+    display: flex;
+    gap: 30px;
+   
+}
+.menu a{
+    color: inherit;
+    text-decoration: none;
+}

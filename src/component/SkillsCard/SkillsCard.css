@@ -1,0 +1,41 @@
+.box1,
+.box2,
+.box3,
+.box4{
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+.box1 h2,
+.box2 h2,
+.box3 h2,
+.box4 h2{
+    border: 2px solid grey;
+    padding: 10px 10px 10px 10px;
+    border: none;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+        border-radius: 10px;
+}
+.box1 h2:active,
+.box2 h2:active,
+.box3 h2:active,
+.box4 h2:active{
+transform: scale(0.99);
+box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+}
+#title1,
+#title2,
+#title3,
+#title4{
+    font-weight: bolder;
+    text-decoration: underline;
+}
+.box1 h2:hover,
+.box2 h2:hover,
+.box3 h2:hover,
+.box4 h2:hover{
+transform: scale(1.09);
+box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+cursor: pointer;
+}
