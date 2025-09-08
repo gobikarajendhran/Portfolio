@@ -13,7 +13,8 @@ function Projects() {
                 <div className='projectcard'>
                     <h3>Personal Portfoilo</h3>
                     <p>Built with <b>React + Vite</b>.Designed and <br />developed  from scratch to refelect my style and skills.</p>
-                     <a href=''>View project</a>
+                    <a href=''>View project</a> <br></br>
+                    <a href='https://github.com/gobikarajendhran/Portfolio'>View github</a>
                 </div>
                 <div className='projectcard'>
                     
