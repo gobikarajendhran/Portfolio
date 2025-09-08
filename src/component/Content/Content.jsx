@@ -1,5 +1,5 @@
 import './Content.css';
-import AboutImage  from "../About/Aboutimage2.png";
+import AboutImage  from "../About/AboutImage2.png";
 import { useNavigate } from 'react-router-dom';
 function Content() {
 
