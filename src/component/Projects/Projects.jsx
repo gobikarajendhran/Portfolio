@@ -21,13 +21,14 @@ function Projects() {
 
                 <h3>Quiz App </h3>  
                 <p>HTML,CSS,Javascript-based quiz app inspired<br/> by tutorials, customized with my own layout and styling.</p>
-                    <a href="https://strong-daifuku-cafa98.netlify.app/" target='_blank'>View Project</a>
-
+                    <a href="https://strong-daifuku-cafa98.netlify.app/" target='_blank'>View Project</a><br/>
+                    <a href='https://github.com/gobikarajendhran/Quiz-App' >View Github</a>
                 </div>
                 <div className='projectcard'>
                     <h3>Responsive Portfolio Website </h3>
                     <p>A responsive and interactive website created during<br /> my training to showcase my projects and skills.<br /> Built step by step while learning frontend <br />technologies like HTML, CSS, JavaScript, and React.js.</p>
-                   
+                    <a href='lustrous-alfajores-49fb2d.netlify.app'target="_blank">View Project</a><br></br>
+                    <a href='https://github.com/gobikarajendhran/Myapp' >view Github</a>
                 </div>
             </div>
         </>
